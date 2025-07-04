@@ -4,7 +4,7 @@ Anime Drop Rate Analyzer is a Streamlit web app that lets you explore viewing pa
 ✅ Search by Anime Name – fetch stats, synopsis, and drop rate for any anime.  
 ✅ General Statistics – explore top 10 anime by genre with drop rate visualizations.  
 
-🚀 Features:
+## 🚀 Features:
 
 🔍 Anime Search:
 Enter any anime name and see:
