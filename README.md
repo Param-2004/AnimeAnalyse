@@ -1,4 +1,4 @@
-#🎌 Anime Analyser
+# 🎌 Anime Analyser 
 Anime Drop Rate Analyzer is a Streamlit web app that lets you explore viewing patterns and drop rates for anime series using the public Jikan API. It offers two main modes:
 
 ✅ Search by Anime Name – fetch stats, synopsis, and drop rate for any anime
