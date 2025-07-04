@@ -24,10 +24,10 @@ Gradient header animation
 Styled info/error badges  
 Stat cards and charts for a polished dashboard look  
 
-📦 Tech Stack
-Frontend: Streamlit  
-Backend: Python with:  
-requests – for calling the Jikan API  
-matplotlib – for engagement bar charts  
-numpy – data handling  
+### 📦 Tech Stack
+#### Frontend: Streamlit  
+#### Backend: Python with:  
+Requests – for calling the Jikan API    
+Matplotlib – for engagement bar charts      
+Numpy – data handling    
   
