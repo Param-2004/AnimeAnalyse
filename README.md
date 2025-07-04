@@ -14,7 +14,7 @@ Drop rate calculated and highlighted
 Bar chart of engagement stats
 
 ### 📊 Genre Analysis:
-Pick from popular genres (e.g. Shounen, Isekai, Romance, Horror)
+Pick from popular genres (e.g. Shounen, Isekai, Romance, Horror)  
 View the top 10 highest-rated anime in that genre
 For each, see viewer engagement and calculated drop rate
 Interactive progress display while loading
